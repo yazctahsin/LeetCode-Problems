@@ -1,7 +1,0 @@
-C:\Users\Dell\Desktop\LeetCode\1. Two Sum\1. Two Sum\bin\Debug\_1.Two_Sum.exe.config
-C:\Users\Dell\Desktop\LeetCode\1. Two Sum\1. Two Sum\bin\Debug\_1.Two_Sum.exe
-C:\Users\Dell\Desktop\LeetCode\1. Two Sum\1. Two Sum\bin\Debug\_1.Two_Sum.pdb
-C:\Users\Dell\Desktop\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\1. Two Sum.csproj.AssemblyReference.cache
-C:\Users\Dell\Desktop\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\1. Two Sum.csproj.CoreCompileInputs.cache
-C:\Users\Dell\Desktop\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\_1.Two_Sum.exe
-C:\Users\Dell\Desktop\LeetCode\1. Two Sum\1. Two Sum\obj\Debug\_1.Two_Sum.pdb
